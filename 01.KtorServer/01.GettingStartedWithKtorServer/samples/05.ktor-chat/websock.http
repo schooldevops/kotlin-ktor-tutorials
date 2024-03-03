@@ -1,0 +1,7 @@
+###
+WEBSOCKET ws://0.0.0.0:8089/chat
+Content-Type: text/plain
+
+###
+WEBSOCKET ws://localhost:8089/chat
+Content-Type: text/plain
